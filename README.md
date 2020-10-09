@@ -4,9 +4,9 @@
 
 After completing analysis of purchase data for the game Heroes of Pymoli, I observed both obvious and subtle results.
 
-  1) Males overwhelming percentage of players 84%
+  1) An overwhelming amount of the players were male at 84%.
 
-  2) Age group 20 - 24 has largest amount of players with 258 @ 44.79%
+  2) Age group 20 - 24 has the largest number of players with a total count of 258, which is 44.79% of players.
 
   3) Age group 35 - 39 has largest average purchase price @ $3.60 and 
 	  largest average total purchase price per person @ $4.76
