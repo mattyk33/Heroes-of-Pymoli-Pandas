@@ -16,5 +16,5 @@ After completing analysis of purchase data for the game Heroes of Pymoli, I obse
   5) "Final Critic" was the most popular and most profitable item with 13 purchases 
      at a cost of $4.61 for a total purchase value of $59.99.
 
-   	"Oathbreaker, Last Hope of the Breaking Storm" was second with 12 purchases
-	at a cost of $4.23 for a total purchase value of $50.76.
+        "Oathbreaker, Last Hope of the Breaking Storm" was second with 12 purchases
+         at a cost of $4.23 for a total purchase value of $50.76.
